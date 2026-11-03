@@ -4662,8 +4662,6 @@
     "advanceNextPrompt",
     "replyToSender",
     "reply",
-    "defaultSaveMessageAsFileName",
-    "longMsgSubjectTruncator",
     "MessageLoaded",
     "PreviewTitle",
     "downloadingNewsgroups",
@@ -4729,6 +4727,9 @@
     "templatesFolderName",
     "outboxFolderName",
     "archivesFolderName",
+    "mailnews.search_date_format",
+    "mailnews.search_date_separator",
+    "mailnews.search_date_leading_zeros",
     "nocachedbodybody2",
     "nocachedbodytitle",
     "confirmUnsubscribeTitle",
@@ -8223,7 +8224,8 @@
     "calendar-prompt-this-event.label",
     "calendar-prompt-all-events.label",
     "calendar-prompt-delete-button",
-    "calendar-dialog-edit-button"
+    "calendar-dialog-edit-button",
+    "calendar-event-create-edit-save-button"
   ],
   "mail/messenger/certError.ftl": [
     "cert-error-domain-mismatch",
@@ -12084,6 +12086,8 @@
   "mail/messenger/virtualFolderProperties.ftl": [
     "virtual-folder-sources-chosen",
     "virtual-folder-no-search-folders-selected",
+    "virtual-folder-missing-value-title",
+    "virtual-folder-missing-value-rule",
     "virtual-folder-properties-title",
     "virtual-folder-properties-edit-title",
     "virtual-folder-name",
